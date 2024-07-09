@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 4,
+  "gopls": { "ui.semanticTokens": true },
+  "[go]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "never",
+      "source.organizeImports": "never"
+    },
+  }
+}
